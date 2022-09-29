@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.getElementById("gumburger"),t=document.getElementById("close-menu"),n=(document.getElementById("user"),document.getElementById("nav"));e.addEventListener("click",(function(){n.style.display="flex",t.style.display="block"})),t.addEventListener("click",(()=>{n.style.display="none"}))})();
